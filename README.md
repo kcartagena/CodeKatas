@@ -7,6 +7,7 @@ Next, I used Javascript to solve the String Calculator Code Kata.
 There is no better way to learn a new language in-depth than using it to solve a problem!
 
 Here you can find the code katas I attempted to solve:
+
 Red Pencil: https://stefanroock.wordpress.com/2011/03/04/red-pencil-code-kata/
 String Calculator: https://osherove.com/tdd-kata-1/
 
