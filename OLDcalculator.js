@@ -4,7 +4,4 @@ function stringCalculator (){
         value: function()
             return 0;
     },
-    add: function(num){
-        results = num + results;
-    }
 }
