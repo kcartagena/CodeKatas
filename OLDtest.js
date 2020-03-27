@@ -1,3 +1,4 @@
+//beforEach() and it() should have been nested inside describe()
 describe('String Calculator', function() {
     var calculator;
 
