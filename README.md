@@ -11,6 +11,12 @@ I took on the challenge of solving the Red Pencil Code Kata using Python. This i
 
 There is no better way to learn a new language in-depth than using it to solve a problem!
 
+My solutions:
+<ul>
+  <li>Red Pencil</li>
+  <li>String Calculator</li>
+</ul>
+
 Here you can find the code katas and attempt to solve them too:
 
 Red Pencil: https://stefanroock.wordpress.com/2011/03/04/red-pencil-code-kata/
