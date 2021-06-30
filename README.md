@@ -5,6 +5,7 @@ Katas I have worked on:
 - [Red Pencil](./red_pencil/)
 - [String Calculator](./stringCalculator_MOCHA)
 - [Summation Kata](./summationKata)
+- [Palindrome Kata](./palindrome_kata)
 
 ---
 
